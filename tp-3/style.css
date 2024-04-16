@@ -1,9 +1,8 @@
-
-#contenedor h1 {
+#contenedor h1.titulo {
     text-align: center;
 }
 
-p {
+#contenedor p {
     font-family: serif;
 }
 
@@ -15,19 +14,19 @@ p {
     color: #933;
 }
 
-a {
+#contenedor a, a{
     outline: 1px solid #333;
 }
 
-p.fuente {
+#contenedor p.fuente {
     opacity: 100%;
 }
 
-p.fuente {
+#contenedor p.fuente {
     color: #000;
 }
 
-.complicado {
+#contenedor .complicado {
     font-weight: bold;
     color: #C62;
 }
